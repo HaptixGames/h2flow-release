@@ -47,7 +47,7 @@ E - special item
 
 ## Water Artificial Intelligence
 
-Water particle interactions simulated using state-of-the-art deep learning neural networks, powered by reverse osmotic forward rendering, double buffered texture filters.  
+Water particle interactions simulated using state-of-the-art deep learning neural networks, powered by reverse osmotic, forward rendering, double buffered texture filters.  
 
 ![bomb](media/bomb.gif)  
   
