@@ -1,5 +1,7 @@
 # H2FLOW
 
+[Windows](releases/tag/h2flow-win) | [Mac](releases/tag/h2flow-win)  
+
 Original Release: May 6, 2014
 
 ![h2flow_triad](media/triad.png)
