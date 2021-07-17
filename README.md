@@ -45,3 +45,13 @@ E - special item
 
 ![howtoplay](media/howtoplay.png)
 
+## Water Artificial Intelligence
+
+Water particle interactions simulated using state-of-the-art deep learning neural networks, powered by reverse osmotic forward rendering texture filters.  
+
+![bomb](media/bomb.gif)  
+  
+
+
+
+
