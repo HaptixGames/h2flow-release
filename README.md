@@ -51,7 +51,7 @@ Water particle interactions simulated using state-of-the-art deep learning neura
 
 ![bomb](media/bomb.gif)  
   
-ASV-DRJA-CWKR-J94N-EFXK-F9DJ  
+<sup>ASV-DRJA-CWKR-J94N-EFXK-F9DJ</sup>  
 
 ASV-HWCG-WKHQ-ENJJ-FFUU-HQWC  
 
