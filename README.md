@@ -1,6 +1,6 @@
 # H2FLOW
 
-[Windows](https://github.com/MRIIOT/h2flow-release/releases/tag/h2flow-win) | [Mac](https://github.com/MRIIOT/h2flow-release/releases/tag/h2flow-mac) | [Linux](https://github.com/MRIIOT/h2flow-release/releases/tag/h2flow-linux)  
+[Windows](https://github.com/MRIIOT/h2flow-release/releases/tag/h2flow-win) | [Mac](https://github.com/MRIIOT/h2flow-release/releases/tag/h2flow-mac) | [Linux](https://github.com/MRIIOT/h2flow-release/releases/tag/h2flow-linux) | [WebGL](https://mriiot.github.io/h2flow-release-webgl/)  
 
 Original Release: May 6, 2014
 
